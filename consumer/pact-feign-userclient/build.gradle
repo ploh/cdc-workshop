@@ -34,8 +34,8 @@ dependencies {
 pact {
     publish {
         pactDirectory = 'target/pacts'
-        pactBrokerUrl = 'URL'
-        pactBrokerUsername = 'USERNAME'
-        pactBrokerPassword = 'PASSWORD'
+        pactBrokerUrl = 'https://adesso.pact.dius.com.au/'
+        pactBrokerUsername = 'Vm6YWrQURJ1T7mDIRiKwfexCAc4HbU'
+        pactBrokerPassword = 'aLerJwBhpEcN0Wm88Wgvs45AR9dXpc'
     }
 }
